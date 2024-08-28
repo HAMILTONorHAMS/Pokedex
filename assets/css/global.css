@@ -1,0 +1,18 @@
+
+*{
+  font-family: 'roboto', 'sans-serify';
+  box-sizing: border-box;
+  border-radius: 0.5%;
+  text-align: center;
+}
+body {
+  background-color: #2b2e2a;
+}
+.content {
+  width: 100vw;
+  height: 100vh;
+  padding: 1rem;
+}
+h1{
+  color: #fff;
+}

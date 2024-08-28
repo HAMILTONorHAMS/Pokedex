@@ -1,0 +1,24 @@
+Requisição HTTP
+
+URL: https://pokeapi.co/api/v2/pokemon
+ ${IP}/${path = caminho de identificação}
+ 
+ IP: https://pokeapi.co
+ PATH: /api/v2/pokemon
+care string = chave e valor. Pode utilizar como filtro.
+
+Request Method: GET | POST | PUT | DELETE
+ REQUISIÇÃO. 
+  Request Headers
+    configuração
+  
+  Request Body
+    Requisitando um conteudo
+
+  Status code = O que houve na requisição,
+  Response Headers
+    Como a reposta esta configuração
+
+  Response Body
+    O conteudo
+ 
